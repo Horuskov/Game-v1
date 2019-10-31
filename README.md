@@ -1,4 +1,5 @@
-# Game-v1
+# 2D brick breaker game with JavaScript
+
 First video game with JavaScript !
 
 Simple but fun to build: brick breaker breaking bricky!
